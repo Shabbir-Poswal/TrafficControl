@@ -52,11 +52,6 @@ The dataset is publicly available on Roboflow and Kaggle:
 - Kaggle Dataset: [Top-View Vehicle Detection Image Dataset](https://www.kaggle.com/datasets/farzadnekouei/top-view-vehicle-detection-image-dataset)
 
 
-## 🎥 YouTube Demo
-Real-Time Traffic Density Estimation with YOLOv8 in Action:
-
-[![Traffic Density Estimation Demo](https://img.youtube.com/vi/5SxQfWLENh8/0.jpg)](https://youtu.be/5SxQfWLENh8)
-
 
 ## 📁 File Descriptions
 
@@ -70,19 +65,7 @@ Real-Time Traffic Density Estimation with YOLOv8 in Action:
 - **`sample_video.mp4`**: The video file used for testing the traffic estimation algorithm and the deployment code in `real_time_traffic_analysis.py`.
 
 
-## 🚀 Instructions for Local Execution
 
-To experience the full capabilities of the YOLOv8 Traffic Density Estimation project on your local machine, follow these steps:
-
-### 1️⃣. Initial Setup
-1. **Clone the Repository**: Start by cloning the project repository to your local system using the command below:
-    ```bash
-    git clone https://github.com/FarzadNekouee/YOLOv8_Traffic_Density_Estimation.git
-    ```
-2. **Navigate to the Project Directory**: After cloning, change into the project directory with:
-    ```bash
-    cd YOLOv8_Traffic_Density_Estimation
-    ```
 
 ### 2️⃣. Exploring the Model Development Pipeline
 Get hands-on with the model development process and see the results of traffic density estimation:
@@ -108,10 +91,3 @@ This GIF showcases our algorithm running in real-time:
 
 ![Real-Time Traffic Analysis GIF](Running_Real-Time_Traffic_Analysis.gif) 
 
-
-## 🔗 Additional Resources
-
-- 🎥 **Project Demo**: Watch the live demonstration of this project on [YouTube](https://www.youtube.com/watch?v=5SxQfWLENh8).
-- 🌐 **Kaggle Notebook**: Interested in a Kaggle environment? Explore the notebook [here](https://www.kaggle.com/code/farzadnekouei/real-time-traffic-density-estimation-with-yolov8).
-- 🌐 **Dataset Source**: Available on both [Roboflow](https://universe.roboflow.com/farzad/vehicle_detection_yolov8) and [Kaggle](https://www.kaggle.com/datasets/farzadnekouei/top-view-vehicle-detection-image-dataset).
-- 🤝 **Connect on LinkedIn**: Have questions or looking for collaboration? Let's connect on [LinkedIn](https://linkedin.com/in/farzad-nekouei-7535aa53/).
